@@ -1,0 +1,17 @@
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.deps.json
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Application.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.pdb
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.AssemblyReference.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.AssemblyInfo.cs
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.CopyComplete
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Application.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb

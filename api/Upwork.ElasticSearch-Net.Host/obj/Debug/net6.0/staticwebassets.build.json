@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q1BIYKf70cFg8JR2JqiqJrF1LAvTm+dAo3pXr4PiAyg=",
+  "Source": "Upwork.ElasticSearch-Net.Host",
+  "BasePath": "_content/Upwork.ElasticSearch-Net.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgRA1DNwxY9BRH9K0OSMHfmgw7FDo3Z9RUuFLw+9ZYoRoQrsDrb7BLzn98nIkt06B9jtRf4YWpeokancPfKCrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimit\\Documents\\Upwork\\ElasticSearch-Net\\Upwork.ElasticSearch-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

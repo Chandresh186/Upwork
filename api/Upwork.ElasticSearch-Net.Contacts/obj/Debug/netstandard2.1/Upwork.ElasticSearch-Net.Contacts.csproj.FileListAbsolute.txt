@@ -1,0 +1,10 @@
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.deps.json
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.csproj.AssemblyReference.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.AssemblyInfo.cs
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
+C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb

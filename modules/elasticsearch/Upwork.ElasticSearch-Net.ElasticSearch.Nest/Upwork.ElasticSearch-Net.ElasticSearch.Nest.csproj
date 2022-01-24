@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<RootNamespace>Upwork.ElasticSearch_Net.ElasticSearch.Nest</RootNamespace>
+		<Nullable>enable</Nullable>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+	  <PackageReference Include="NEST" Version="7.13.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj" />
+	</ItemGroup>
+
+</Project>

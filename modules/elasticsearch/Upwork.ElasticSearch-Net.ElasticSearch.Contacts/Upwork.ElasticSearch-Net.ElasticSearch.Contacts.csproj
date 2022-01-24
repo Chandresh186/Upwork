@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<RootNamespace>Upwork.ElasticSearch_Net.ElasticSearch.Contacts</RootNamespace>
+		<Nullable>enable</Nullable>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\..\api\Upwork.ElasticSearch-Net.Contacts\Upwork.ElasticSearch-Net.Contacts.csproj" />
+	</ItemGroup>
+
+</Project>

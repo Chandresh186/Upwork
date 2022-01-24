@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {}
+  },
+  "projects": {
+    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+        "projectName": "Upwork.ElasticSearch-Net.Application",
+        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {
+              "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+                "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
+              },
+              "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+                "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectName": "Upwork.ElasticSearch-Net.Contacts",
+        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "projectName": "Upwork.ElasticSearch-Net.ElasticSearch.Contacts",
+        "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+                "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

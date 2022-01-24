@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Upwork.ElasticSearch_Net</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Nest\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj" />
+    <ProjectReference Include="..\Upwork.ElasticSearch-Net.Application\Upwork.ElasticSearch-Net.Application.csproj" />
+    <ProjectReference Include="..\Upwork.ElasticSearch-Net.Contacts\Upwork.ElasticSearch-Net.Contacts.csproj" />
+  </ItemGroup>
+
+</Project>
