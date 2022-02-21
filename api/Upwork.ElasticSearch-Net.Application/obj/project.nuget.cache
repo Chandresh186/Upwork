@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QgRA1DNwxY9BRH9K0OSMHfmgw7FDo3Z9RUuFLw+9ZYoRoQrsDrb7BLzn98nIkt06B9jtRf4YWpeokancPfKCrg==",
+  "dgSpecHash": "kqkHJdfkLGqgPO9l2fe2HQNC4GCF5tHeW1pTNOBnaP2NIJCIULPYIP9/4Mtc3k0x1mH4y2tRP8yhF46oWE7Yhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Documents\\Upwork\\ElasticSearch-Net\\Upwork.ElasticSearch-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+  "projectFilePath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

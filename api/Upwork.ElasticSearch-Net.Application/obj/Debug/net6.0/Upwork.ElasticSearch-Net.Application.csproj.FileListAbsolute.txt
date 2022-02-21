@@ -15,3 +15,20 @@ C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\U
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Application.dll
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.deps.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.AssemblyReference.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.AssemblyInfoInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.AssemblyInfo.cs
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.CoreCompileInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.csproj.CopyComplete
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\refint\Upwork.ElasticSearch-Net.Application.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Application\obj\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Application.dll

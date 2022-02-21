@@ -11,3 +11,16 @@ C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\modul
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj.CopyComplete
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.deps.json
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj.AssemblyReference.cache
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.AssemblyInfoInputs.cache
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.AssemblyInfo.cs
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj.CoreCompileInputs.cache
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj.CopyComplete
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
+G:\Interview assign\Git\Upwork\modules\elasticsearch\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb

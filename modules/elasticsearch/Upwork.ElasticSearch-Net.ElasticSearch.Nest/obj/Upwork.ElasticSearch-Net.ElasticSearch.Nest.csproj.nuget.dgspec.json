@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj": {}
+    "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj": {}
   },
   "projects": {
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "projectName": "Upwork.ElasticSearch-Net.Contacts",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -55,18 +57,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
         "projectName": "Upwork.ElasticSearch-Net.ElasticSearch.Contacts",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,9 +86,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
-                "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
+              "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+                "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
               }
             }
           }
@@ -99,6 +102,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -114,18 +118,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj",
         "projectName": "Upwork.ElasticSearch-Net.ElasticSearch.Nest",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\Upwork.ElasticSearch-Net.ElasticSearch.Nest.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Nest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -143,9 +147,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
-                "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj"
+              "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+                "projectPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj"
               }
             }
           }
@@ -158,6 +163,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
@@ -187,7 +193,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

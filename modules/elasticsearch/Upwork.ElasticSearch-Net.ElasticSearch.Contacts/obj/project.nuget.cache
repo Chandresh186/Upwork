@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eb9KLtUVBUcRs6wSigmrwzWtSEHFwormlSBSAzbNwQ20k0/Iocbqdqwkobfs/0V1rnElufvGnZYen3CVmc/pJQ==",
+  "dgSpecHash": "BclG+33qFcyEqajhWKm9Acx1paeSYNrPPvmrPLHmQpFW2J/KGRgiPvmPC2HZ/x/p2BhvgmK1Wzey42vgsNOUQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Documents\\Upwork\\ElasticSearch-Net\\Upwork.ElasticSearch-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+  "projectFilePath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {}
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {}
   },
   "projects": {
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "projectName": "Upwork.ElasticSearch-Net.Contacts",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

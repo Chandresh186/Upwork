@@ -8,3 +8,13 @@ C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\U
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.csproj.CoreCompileInputs.cache
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.deps.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\bin\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.csproj.AssemblyReference.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.AssemblyInfoInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.AssemblyInfo.cs
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.csproj.CoreCompileInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Contacts\obj\Debug\netstandard2.1\Upwork.ElasticSearch-Net.Contacts.pdb

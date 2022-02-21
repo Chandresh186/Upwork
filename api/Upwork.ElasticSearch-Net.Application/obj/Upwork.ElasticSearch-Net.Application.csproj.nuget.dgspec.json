@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {}
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {}
   },
   "projects": {
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
         "projectName": "Upwork.ElasticSearch-Net.Application",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\Upwork.ElasticSearch-Net.Application.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Application\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,20 +21,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net60"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net60": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
-                "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
+              "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+                "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
               },
-              "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
-                "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj"
+              "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+                "projectPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj"
               }
             }
           }
@@ -46,25 +47,41 @@
         }
       },
       "frameworks": {
-        "net60": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[6.0.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "projectName": "Upwork.ElasticSearch-Net.Contacts",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,6 +99,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -93,6 +111,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -108,18 +127,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
+    "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "projectUniqueName": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
         "projectName": "Upwork.ElasticSearch-Net.ElasticSearch.Contacts",
-        "projectPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
+        "projectPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\Upwork-ElasticSeach-Net\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\obj\\",
+        "outputPath": "G:\\Interview assign\\Git\\Upwork\\modules\\elasticsearch\\Upwork.ElasticSearch-Net.ElasticSearch.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -137,9 +156,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
-                "projectPath": "G:\\Upwork-ElasticSeach-Net\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
+              "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj": {
+                "projectPath": "G:\\Interview assign\\Git\\Upwork\\api\\Upwork.ElasticSearch-Net.Contacts\\Upwork.ElasticSearch-Net.Contacts.csproj"
               }
             }
           }
@@ -152,6 +172,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -167,7 +188,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

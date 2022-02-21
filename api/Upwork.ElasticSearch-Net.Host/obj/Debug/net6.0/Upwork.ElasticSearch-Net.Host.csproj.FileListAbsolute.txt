@@ -34,3 +34,40 @@ C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\U
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Host.dll
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.pdb
 C:\Users\dimit\Documents\Upwork\ElasticSearch-Net\Upwork.ElasticSearch-Net\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.genruntimeconfig.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\appsettings.Development.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\appsettings.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Host.exe
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Host.deps.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Host.runtimeconfig.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Host.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Host.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Elasticsearch.Net.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Nest.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Nest.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Nest.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Application.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\bin\Debug\net6.0\Upwork.ElasticSearch-Net.ElasticSearch.Contacts.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.csproj.AssemblyReference.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.AssemblyInfoInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.AssemblyInfo.cs
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.csproj.CoreCompileInputs.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.MvcApplicationPartsAssemblyInfo.cs
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.MvcApplicationPartsAssemblyInfo.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\staticwebassets.build.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\staticwebassets.development.json
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\scopedcss\bundle\Upwork.ElasticSearch-Net.Host.styles.css
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.csproj.CopyComplete
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\refint\Upwork.ElasticSearch-Net.Host.dll
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.pdb
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\Upwork.ElasticSearch-Net.Host.genruntimeconfig.cache
+G:\Interview assign\Git\Upwork\api\Upwork.ElasticSearch-Net.Host\obj\Debug\net6.0\ref\Upwork.ElasticSearch-Net.Host.dll
